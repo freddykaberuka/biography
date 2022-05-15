@@ -4,32 +4,54 @@ const Section = () => {
     return (
         <section>
             <div className="section__header">
-                <h1>Trust Bizimungu Pascal</h1>
+                <h1>Diane Tumutoneshe</h1>
             </div>
             <div className="summary">
                 <article >
-                    <h2>Trust Bizimungu Pascal</h2>
-                    <p>Kabano is an associate at Bytelex advocates,
-                        currently stationed in Rwanda. He brings a foreign perspective to the team with his
-                        understanding of both Ugandan and Rwandan law. He uses this diverse background to provide legal advice that
-                        exceeds borders and takes into account the regional legal status quo in the tech start up space. Kabano’s
-                        passion for helping others is what drives his legal career.
-                        He holds a Bachelor of Laws degree from Makerere university school of law and a Diploma in Legal practice from the law development centre in Uganda.</p>
+                    <h2>Diane Tumutoneshe</h2>
+                    <p>Diane Tumutoneshe has always seen her work as the
+                        realization of her sport passions put at the service of others. I
+                        combine proactive, dynamic, motivation and optimistic with
+                        the knowledge and skills I have received during my different
+                        sport studies and experiences in management of sports and
+                        football coaching
+                        </p>
                 </article>
                 <article >
                     <h2>Work Highlights</h2>
                     <ul>
-                        <li>Advised Ared Group Limited on their proposed Flip transaction to Delaware state and the resulting corporate restructure.</li>
-                        <li>Advised Kian Smith Trade & Co. on structuring their gold-backed digital currency business for operation in Rwanda</li>
-                        <li>Part of the legal team engaged by GIZ and Government of Rwanda to facilitate the creation of the Tech Enabled Innovation Policy in Rwanda</li>
-                        <li>Advised Kian Smith Trade & Co. on structuring their gold-backed digital currency business for operation in Rwanda</li>
-                        <li>Part of the legal team engaged by GIZ and Government of Rwanda to facilitate</li>
-                        <li>Part of the legal team engaged by GIZ and Government of Rwanda to facilitate the creation of the Tech Enabled Innovation Policy in Rwanda</li>
-                        <li>Formed part of the Team engaged by GIZ (Deutsche Gesellschaft fur Internationale Zusammenarbeit) to facilitate the creation of a Startup Act for Rwanda</li>
-                        <li>Engaged by Integrate Health and Trust Law to advise and collaborate on the development of a report on the compensation of community Health workers.</li>
-                        <li>Advising MOBICASH Group Ltd on its joint venture arrangement with Rwandan investment co. to commence operations in Rwanda and Nigeria.</li>
-                        <li>Engaged by multinational Chemical technology company to advise on and prepare relevant legal documents for its negotiations with foreign chemical suppliers and expansion into the Asian and European chemical engineering Markets.</li>
+                        <li>Planning events and programs.Managing risks. Creatingbudgets, and monitoring financial performance</li>
+                        <li>leading training sessions, providing
+motivation and advice during
+gameplay, developing game plans,
+attending tryouts, as well as
+scheduling team meetings
+</li>
+                        <li>handles administrative tasks for the
+project and team members to keep
+the project running smoothly</li>
+                        <li>organize talent identification for
+boys and girls who want to play
+soccer and study in USA high school
+and colleges
+</li>
+                        <li>planning and handle all issues
+related to women football in
+Rwanda
+</li>
+                        <li>The Technical Commission and
+preparation of national and
+Olympic teams
+</li>
+                        <li>The committee shall be responsible for
+organizing and supervising matches of
+women's, Africa nation cup
+(qualification and final phase, as well
+as all continental football competitions
+organized by CAF in these categories</li>
+                        
                     </ul>
+                    <button>Download My Resume</button>
                 </article>
                 <Footer />
             </div>
