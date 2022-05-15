@@ -51,7 +51,7 @@ as all continental football competitions
 organized by CAF in these categories</li>
                         
                     </ul>
-                    <button>Download My Resume</button>
+                    <div className="button-container"><button>Download My Resume</button></div>
                 </article>
                 <Footer />
             </div>
