@@ -4,12 +4,12 @@ const Section = () => {
     return (
         <section>
             <div className="section__header">
-                <h1>Diane Tumutoneshe</h1>
+                <h1>Name of Bio</h1>
             </div>
             <div className="summary">
                 <article >
-                    <h2>Diane Tumutoneshe</h2>
-                    <p>Diane Tumutoneshe has always seen her work as the
+                    <h2>Name of Bio</h2>
+                    <p>Name of Bio has always seen her work as the
                         realization of her sport passions put at the service of others. I
                         combine proactive, dynamic, motivation and optimistic with
                         the knowledge and skills I have received during my different

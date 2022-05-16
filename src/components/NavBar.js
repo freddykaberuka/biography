@@ -11,7 +11,7 @@ const NavBar = () => {
         <div>
             {click ? <Popup /> : <nav>
                 <div className="nav__logo">
-                    <h1>Diane</h1>
+                    <h1></h1>
                 </div>
                 <ul className="nav__links">
                     <li className="desktop"><a href="#Paractice">Practice Areas</a></li>

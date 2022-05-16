@@ -28,7 +28,7 @@ Sports Management
             <div className="right__data">
                 <ul className="details">
                     <li><p>Email:</p>
-                        <a href="#email">diane.tumutoneshe@gmail.com</a>
+                        <a href="#email">email@gmail.com</a>
                         <hr />
                     </li>
                     <li><p>LANGUAGES</p><p>English and French</p><hr /></li>
